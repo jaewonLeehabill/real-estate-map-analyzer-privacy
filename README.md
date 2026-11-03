@@ -4,7 +4,7 @@
 - 시행일: 2026-11-03
 - 운영자·게시자: HABILL
 - 문의 이메일: easylife1004@gmail.com
-- 공개 URL: https://jaewonleehabill.github.io/naver-real-estate-analyzer/
+- 공개 URL: https://jaewonleehabill.github.io/real-estate-map-analyzer-privacy/
 
 ## 1. 제품과 적용 범위
 
